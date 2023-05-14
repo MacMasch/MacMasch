@@ -4,7 +4,11 @@ Here are some important and helpful links...
 
 ## [Gradle](https://gradle.org/)
 
-* [Maven Repository](https://mvnrepository.com/)
+* [Gradle User Manual](https://docs.gradle.org/current/userguide/userguide.html)
+* [Core Plugins](https://docs.gradle.org/current/userguide/plugin_reference.html)
+* [Gradle Kotlin DSL Primer](https://docs.gradle.org/current/userguide/kotlin_dsl.html)
+* [Migrating build logic from Groovy to Kotlin](https://docs.gradle.org/current/userguide/migrating_from_groovy_to_kotlin_dsl.html)
+* [Automatic Semantic Versioning on your Gradle project](https://blog.dipien.com/automatic-semantic-versioning-on-your-gradle-project-6343b626b27b)
 
 ## [Docker](https://www.docker.com/)
 
@@ -32,4 +36,5 @@ Here are some important and helpful links...
 
 ## Other Links
 
+* [Maven Repository](https://mvnrepository.com/)
 * [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
