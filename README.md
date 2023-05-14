@@ -1,16 +1,35 @@
-### Hi there 👋
+# Welcome to MacMasch
 
-<!--
-**MacMasch/MacMasch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some important and helpful links...
 
-Here are some ideas to get you started:
+## [Gradle](https://gradle.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Maven Repository](https://mvnrepository.com/)
+
+## [Docker](https://www.docker.com/)
+
+### Guides
+
+* [Spring Boot Docker](https://spring.io/guides/topicals/spring-boot-docker/)
+* [Dockerizing a Spring Boot Application](https://www.baeldung.com/dockerizing-spring-boot-application)
+* [How to Dockerize A Spring Boot Application](https://morioh.com/p/d11aae77dbd5)
+
+### Docker Images
+
+* [eclipse-termurin (Official Docker Image for OpenJDK binaries built by Eclipse Temurin.)](https://hub.docker.com/_/eclipse-temurin)
+
+## Commits
+
+### [How to Write Good Commit Messages: A Practical Git Guide](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/)
+
+* feat: The new feature you're adding to a particular application
+* fix: A bug fix
+* style: Feature and updates related to styling
+* refactor: Refactoring a specific section of the codebase
+* test: Everything related to testing
+* docs: Everything related to documentation
+* chore: Regular code maintenance.[ You can also use emojis to represent commit types]
+
+## Other Links
+
+* [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
