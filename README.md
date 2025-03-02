@@ -14,9 +14,9 @@ Here are some important and helpful links...
 
 ### Guides
 
-* [Spring Boot Docker](https://spring.io/guides/topicals/spring-boot-docker/)
+* [Spring Boot Docker](https://spring.io/guides/gs/spring-boot-docker)
 * [Dockerizing a Spring Boot Application](https://www.baeldung.com/dockerizing-spring-boot-application)
-* [How to Dockerize A Spring Boot Application](https://morioh.com/p/d11aae77dbd5)
+* [What Is Dockerize And Dockerize Your Project](https://medium.com/@swalperen3008/what-is-dockerize-and-dockerize-your-project-a-step-by-step-guide-899c48a34df6)
 
 ### Docker Images
 
