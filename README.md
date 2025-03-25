@@ -10,9 +10,16 @@ Here are some important and helpful links...
 * [Migrating build logic from Groovy to Kotlin](https://docs.gradle.org/current/userguide/migrating_from_groovy_to_kotlin_dsl.html)
 * [Automatic Semantic Versioning on your Gradle project](https://blog.dipien.com/automatic-semantic-versioning-on-your-gradle-project-6343b626b27b)
 
-## [Docker](https://www.docker.com/)
+## Angular
+* [Angular Docs](https://angular.dev/overview)
+* [Angular Tutorials](https://angular.dev/tutorials)
+* [RxJS](https://rxjs.dev/): Reactive Extensions Library for JavaScript
+* [NgRx](https://ngrx.io/): Reactive State for Angular
+* [Jest](https://jestjs.io/): Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
+* [Playwright](https://playwright.dev/): Playwright enables reliable end-to-end testing for modern web apps.
+* [Nx](https://nx.dev/getting-started/intro)
 
-### Guides
+## [Docker](https://www.docker.com/)
 
 * [Spring Boot Docker](https://spring.io/guides/gs/spring-boot-docker)
 * [Dockerizing a Spring Boot Application](https://www.baeldung.com/dockerizing-spring-boot-application)
